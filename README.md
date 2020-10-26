@@ -28,9 +28,3 @@ Here are some predictions from my model.
 ![sample_326](samples/sample_326.png?raw=true)<br/>
 ![sample_366](samples/sample_366.png?raw=true)<br/>
 ![sample_498](samples/sample_498.png?raw=true)
-
-### More samples
-There are 500 predictions in the samples folder.
-
----
-The Udacity repository for this project: [CVND---Image-Captioning-Project](https://github.com/udacity/CVND---Image-Captioning-Project)
